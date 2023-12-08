@@ -1,3 +1,2 @@
-🌊 I'm faith, an entrepreneur 👷🏼‍♀️ & filmmaker. Passionate about culture and tech. I love 🦀 rust 🔥. Open to meeting more rust programmers, growing and collaborating. Learning/improving on typescript and Korean 🇰🇷. Building a webrtc platform for indie film 🎬 💌. Taking part in MLX advanced AI.
-
+🌊 I'm faith, a founder & filmmaker. I programme in rust and python. Working with realtime and ml :). Studying machince learning for Msc.
 
